@@ -26,7 +26,7 @@ To get started with this project, you will need:
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/marksmith-II/cap.rest.api.get)
     ```
 
 2.  Navigate to the project directory:
@@ -57,4 +57,4 @@ To get started with this project, you will need:
 * You can also use tools like Postman or curl to test the API.
 * Debug the CAPM service in VS Code by setting breakpoints in the `todo-task-service.js` file.
 
-### Project Structure
+
